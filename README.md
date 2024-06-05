@@ -16,7 +16,7 @@ In the next updates, new features will be added to the project, such as a side m
 
 ## How to test it ✅
 
-Simply click the link: https://dreyydk.github.io/Porsche-Website-Recreation/
+Simply click the link: https://porsche-website-recreation.vercel.app
 
 ## Contributing 🤝
 
