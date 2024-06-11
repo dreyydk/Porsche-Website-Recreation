@@ -1,4 +1,4 @@
-# Porsche-Website-Recreation 🏎️
+# Porsche Website Recreation 🏎️
 
 The aim of this project is to recreate the official Porsche website, changing some visual details so that it doesn't look exactly the same.
 
